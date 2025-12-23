@@ -1,24 +1,29 @@
 @import "tailwindcss";
 
-
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --blueti: #001b55;
+
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-blueti: var(--blueti);
+
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
 
-
-
-
-
-html.dark {
-  --background: #0a0a0a;
-  --foreground: #ededed;
+body {
+  background-color: var(--background);
+  max-width: 48rem;
 }

@@ -36,8 +36,8 @@ const Footer: React.FC = () => {
   };
 
     return (
-        <footer className="bg-[#001b55] text-white pb-16 m-auto">
-        <div className="container mx-auto pre-footer flex flex-col items-center justify-between px-6 py-20 text-center bg-acent md:flex-row md:px-26 md:py-30 md:grid md:grid-cols-2 md:gap-8">
+        <footer className="bg-[#001b55] text-white pb-16 m-auto w-screen">
+        <div className=" mx-auto pre-footer flex flex-col items-center justify-between px-6 py-20 text-center bg-acent md:flex-row md:px-26 md:py-30 md:grid md:grid-cols-2 md:gap-8">
           <div className="info mb-8 md:mb-0 md:text-left md:max-w-[600px]">
             <h2 className="text-2xl font-bold mb-4 md:text-4xl">Get early access today</h2>
             <p className="text-gray-200 md:text-xl">
@@ -70,46 +70,35 @@ const Footer: React.FC = () => {
 
 
 
-        <div className="container main-footer mx-auto mt-16 grid grid-cols-1 md:grid-cols-4 gap-8 px-6 md:px-26 md:py-15">
+        <div className="main-footer mx-auto mt-16 grid grid-cols-1 md:grid-cols-4 gap-8 px-6 md:px-26 md:py-15">
           <div  className="flex flex-col items-start">
+            
             
 
             <span className="mb-6 flex flex-row gap-2 hover:text-[hsl(224,93%,58%)]  cursor-pointer">
-              <IconPhone className="w-6 h-4 fill-white hover:fill-[hsl(224,93%,58%)]" /> Phone: +1-543-123-4567
+              <IconPhone className="w-6 h-4 fill-white hover:fill-[hsl(224,93%,58%)]" /> +593 978764482
             </span>
             <span className="flex flex-row gap-2 hover:text-[hsl(224,93%,58%)] cursor-pointer">
               <IconEmail className="w-6 h-4 fill-white hover:fill-[hsl(224,93%,58%)]" />
-              example@fylo.com
+              informaciontecnologias2020@gmail.com
             </span>
           </div>
 
           <div className="flex flex-col gap-y-6 items-start md:mt-28">
             <span className="hover:text-[hsl(224,93%,58%)] cursor-pointer">About Us</span>
-            <span className="hover:text-[hsl(224,93%,58%)] cursor-pointer">Jobs</span>
-            <span className="hover:text-[hsl(224,93%,58%)] cursor-pointer">Press</span>
             <span className="block hover:text-[hsl(224,93%,58%)] cursor-pointer">Blog</span>
-          </div>
-
-          <div className="flex flex-col gap-y-6 items-start md:mt-28">
-            <span className="hover:text-[hsl(224,93%,58%)] cursor-pointer">Contact Us</span>
-            <span className="hover:text-[hsl(224,93%,58%)] cursor-pointer">Terms</span>
-            <span className="hover:text-[hsl(224,93%,58%)] cursor-pointer">Privacy</span>
           </div>
           
 
           <div className="flex justify-center space-x-4 md:mt-28 md:justify-start">
 
-            <IconFb 
-              className={socialIconStyles} 
-            />
+            <a href="https://www.facebook.com/TIespochMorona" target="_blank" rel="noopener noreferrer"><IconFb className={socialIconStyles} /></a>
+            <a href="https://www.instagram.com/tiespochmorona" target="_blank" rel="noopener noreferrer"><IconInsta className={socialIconStyles} /></a>
+            
 
-            <IconTw 
-              className={socialIconStyles} 
-            />
+            
 
-            <IconInsta 
-              className={socialIconStyles} 
-            />
+            
 
           </div>
 
