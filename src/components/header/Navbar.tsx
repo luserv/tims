@@ -23,7 +23,7 @@ export function Navbar() {
 
 
   return (
-    <nav className="mx-auto flex flex-col justify-between items-center text-black dark:text-white py-4">
+    <nav className="mx-auto flex flex-col justify-between items-center dark:text-white py-4">
       {/* Menú de navegación para desktop */}
       <div className="hidden md:flex items-center space-x-4">
         {navItems.map((item) => (
