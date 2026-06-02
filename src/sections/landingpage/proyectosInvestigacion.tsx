@@ -1,17 +1,5 @@
 import React from 'react';
-
-interface ProyectosInvestigacionProps {
-  rows?: { label: string; value: string }[];
-}
-
-const defaultRows = [
-  {
-    label: 'Proyecto',
-    value: 'Influencia de E-Learning como herramienta de mejoramiento de la educación continua en Macas.',
-  },
-  { label: 'Grupos de Investigación', value: 'GIDES, SEGINTE, TIGECON' },
-  { label: 'Líneas de Investigación', value: 'Tecnología de la información y comunicación' },
-];
+import { getTranslations } from 'next-intl/server';
 
 function FlaskIcon() {
   return (
@@ -25,22 +13,25 @@ function FlaskIcon() {
   );
 }
 
-const ProyectosInvestigacion: React.FC<ProyectosInvestigacionProps> = ({ rows = defaultRows }) => {
+const ProyectosInvestigacion: React.FC = async () => {
+  const t = await getTranslations('researchProjects');
+  const rows: { label: string; value: string }[] = t.raw('rows');
+
   return (
     <section className="w-full my-10">
-      <div className="border-l-4 border-[#d79b05] pl-4 mb-8">
-        <h2 className="text-2xl md:text-3xl font-bold text-[#001b55] dark:text-foreground">
-          Proyectos de Investigación
+      <div className="border-l-4 border-gold pl-4 mb-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-blueti dark:text-foreground">
+          {t('title')}
         </h2>
-        <p className="text-muted-foreground text-sm mt-1">Actividad investigativa de la carrera</p>
+        <p className="text-muted-foreground text-sm mt-1">{t('subtitle')}</p>
       </div>
 
       <div className="bg-card border border-border rounded-xl overflow-hidden">
         <div className="flex items-center gap-3 p-5 border-b border-border bg-muted/40">
-          <span className="text-[#001b55] dark:text-primary">
+          <span className="text-blueti dark:text-primary">
             <FlaskIcon />
           </span>
-          <span className="font-semibold text-sm text-foreground">Investigación Activa</span>
+          <span className="font-semibold text-sm text-foreground">{t('activeResearch')}</span>
         </div>
         <div className="divide-y divide-border">
           {rows.map((row, index) => (

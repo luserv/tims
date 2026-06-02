@@ -1,14 +1,5 @@
 import React from 'react';
-
-interface ProyectosVinculacionProps {
-  items?: string[];
-}
-
-const defaultItems = [
-  'Fortalecimiento del proceso educativo de las unidades educativas del distrito 14D01 a través del análisis y factibilidad de nuevos bachilleratos técnicos en la provincia Morona Santiago.',
-  'Aporte a la agenda de transformación digital en el cantón Morona enfocado a las instituciones educativas.',
-  '"NUWA KAKARAM" — el emprendimiento como una alternativa para disminuir la violencia de género en la provincia Morona Santiago.',
-];
+import { getTranslations } from 'next-intl/server';
 
 function LinkIcon() {
   return (
@@ -22,23 +13,26 @@ function LinkIcon() {
   );
 }
 
-const ProyectosVinculacion: React.FC<ProyectosVinculacionProps> = ({ items = defaultItems }) => {
+const ProyectosVinculacion: React.FC = async () => {
+  const t = await getTranslations('outreachProjects');
+  const items: string[] = t.raw('items');
+
   return (
     <section className="w-full my-10">
-      <div className="border-l-4 border-[#001b55] pl-4 mb-8">
-        <h2 className="text-2xl md:text-3xl font-bold text-[#001b55] dark:text-foreground">
-          Proyectos de Vinculación
+      <div className="border-l-4 border-blueti pl-4 mb-8">
+        <h2 className="text-2xl md:text-3xl font-bold text-blueti dark:text-foreground">
+          {t('title')}
         </h2>
-        <p className="text-muted-foreground text-sm mt-1">Vinculación con la comunidad y el entorno</p>
+        <p className="text-muted-foreground text-sm mt-1">{t('subtitle')}</p>
       </div>
 
       <div className="space-y-3">
         {items.map((item, index) => (
           <div
             key={index}
-            className="flex gap-4 bg-card border border-border rounded-xl p-5 hover:border-[#001b55]/30 hover:shadow-sm transition-all duration-200"
+            className="flex gap-4 bg-card border border-border rounded-xl p-5 hover:border-blueti/30 hover:shadow-sm transition-all duration-200"
           >
-            <div className="flex-shrink-0 text-[#d79b05] mt-0.5">
+            <div className="flex-shrink-0 text-gold mt-0.5">
               <LinkIcon />
             </div>
             <p className="text-sm md:text-base text-foreground leading-relaxed">{item}</p>

@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "timeline": "Cronograma",
+    "club": "Club",
+    "studentCouncil": "Consejo Estudiantil",
+    "login": "Iniciar sesión",
+    "brand": "Tecnologías de la Información"
+  },
+  "lang": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "hero": {
+    "badge": "ESPOCH · Sede Morona Santiago",
+    "title": "Ingeniería en Tecnologías de la Información",
+    "description": "Forma profesionales capaces de gestionar y optimizar sistemas de información, adaptados a las tendencias tecnológicas del entorno local, regional y nacional.",
+    "ctaPrimary": "Conoce la carrera",
+    "ctaSecondary": "Ver Cronograma"
+  },
+  "infoBanner": {
+    "title": "Información General",
+    "description": "El Ingeniero/a en Tecnologías de la Información posee la capacidad de utilizar de manera eficiente y efectiva las tecnologías de la información, contribuyendo significativamente a mejorar el rendimiento de las organizaciones adaptándose a las tendencias tecnológicas locales, regionales y nacionales.",
+    "duration": "Duración",
+    "durationValue": "4 años",
+    "modality": "Modalidad",
+    "modalityValue": "Presencial",
+    "cost": "Costo",
+    "costValue": "Gratuito",
+    "coordinator": "Coordinador",
+    "approvalInitial": "Aprobación Inicial CES",
+    "approvalUpdated": "Aprobación Actualizada CES"
+  },
+  "professionalProfile": {
+    "title": "Perfil Profesional",
+    "description": "El Ingeniero/a en Tecnologías de la Información, Sede Morona, será capaz de mejorar el desempeño de las organizaciones en función de las tendencias tecnológicas en el contexto local, regional y nacional — con bases sólidas en datos, redes, plataformas tecnológicas, ciencias administrativas y procesos de negocio.",
+    "items": [
+      {
+        "title": "Conocimientos técnicos sólidos",
+        "description": "Conocimientos profundos de programación, bases de datos, redes, seguridad informática, inteligencia artificial y multimedia."
+      },
+      {
+        "title": "Resolución de problemas",
+        "description": "Capacidad para identificar problemas y proponer soluciones efectivas y eficientes, al menor costo."
+      },
+      {
+        "title": "Habilidades de comunicación",
+        "description": "Destrezas para comunicar alternativas de solución a personas con diferentes niveles de conocimiento técnico."
+      },
+      {
+        "title": "Liderazgo y colaboración",
+        "description": "Capacidad para trabajar en equipo y liderar proyectos de tecnologías de la información."
+      },
+      {
+        "title": "Adaptabilidad y flexibilidad",
+        "description": "Capacidad para adaptarse a diferentes entornos laborales y aprender nuevas tecnologías continuamente."
+      },
+      {
+        "title": "Pensamiento crítico y creativo",
+        "description": "Capacidad crítica para el análisis de la información y creatividad para proponer soluciones innovadoras."
+      },
+      {
+        "title": "Conocimientos de negocios",
+        "description": "Capacidad para encontrar nichos de mercado y necesidades que requieran soluciones basadas en TI."
+      },
+      {
+        "title": "Ética profesional",
+        "description": "Compromiso con la integridad, la confidencialidad y la privacidad de la información."
+      }
+    ]
+  },
+  "occupationalField": {
+    "title": "Campo Ocupacional",
+    "subtitle": "Áreas de desempeño profesional",
+    "items": [
+      "Fundamentales en la gestión y optimización de sistemas de información dentro de las organizaciones públicas y privadas.",
+      "Se desempeñan en roles clave como analistas de sistemas, administradores de bases de datos, diseñadores de redes y seguridad informática.",
+      "Su expertise abarca desde la implementación de soluciones tecnológicas innovadoras hasta la dirección estratégica de proyectos de TI, asegurando la eficiencia operativa.",
+      "Preparados para enfrentar desafíos constantes derivados de la rápida evolución tecnológica, aplicando conocimientos en inteligencia artificial, big data y ciberseguridad."
+    ]
+  },
+  "objectives": {
+    "title": "Objetivos",
+    "subtitle": "General y específicos de la carrera",
+    "generalLabel": "Objetivo General",
+    "generalText": "Integrar fundamentos científicos-metodológicos inherentes a las tecnologías de la información y comunicación, impulsando el crecimiento social, productivo y tecnológico a nivel local, regional y nacional.",
+    "items": [
+      {
+        "title": "Al Conocimiento y Saberes",
+        "description": "Dominar los fundamentos científicos, saberes, técnicas y metodologías de las ciencias básicas, programación y manejo de la información para dar solución a problemas relacionados a las TICs, contribuyendo a los procesos de desarrollo sustentable del entorno."
+      },
+      {
+        "title": "A la Pertinencia",
+        "description": "Plantear soluciones integrales de sistemas de la información y comunicación para resolver problemas del entorno, contribuyendo a la transformación de la matriz productiva del país y automatizando procesos productivos."
+      },
+      {
+        "title": "A los Aprendizajes",
+        "description": "Aplicar habilidades, metodologías y herramientas tecnológicas en el desempeño como ingeniero en TI, con calidad humana y profesionalismo para dar soluciones a necesidades del contexto."
+      },
+      {
+        "title": "A la Ciudadanía Integral",
+        "description": "Establecer un vínculo con la ciudadanía mediante el uso de TIC, fomentando una cultura informática responsable, solidaria y participativa."
+      },
+      {
+        "title": "Investigación Multidisciplinaria",
+        "description": "Elevar el nivel de participación de grupos multidisciplinarios dentro de proyectos investigativos de TI, mejorando el nivel de vida de los diferentes actores de la sociedad."
+      }
+    ]
+  },
+  "outreachProjects": {
+    "title": "Proyectos de Vinculación",
+    "subtitle": "Vinculación con la comunidad y el entorno",
+    "items": [
+      "Fortalecimiento del proceso educativo de las unidades educativas del distrito 14D01 a través del análisis y factibilidad de nuevos bachilleratos técnicos en la provincia Morona Santiago.",
+      "Aporte a la agenda de transformación digital en el cantón Morona enfocado a las instituciones educativas.",
+      "\"NUWA KAKARAM\" — el emprendimiento como una alternativa para disminuir la violencia de género en la provincia Morona Santiago."
+    ]
+  },
+  "researchProjects": {
+    "title": "Proyectos de Investigación",
+    "subtitle": "Actividad investigativa de la carrera",
+    "activeResearch": "Investigación Activa",
+    "rows": [
+      {
+        "label": "Proyecto",
+        "value": "Influencia de E-Learning como herramienta de mejoramiento de la educación continua en Macas."
+      },
+      {
+        "label": "Grupos de Investigación",
+        "value": "GIDES, SEGINTE, TIGECON"
+      },
+      {
+        "label": "Líneas de Investigación",
+        "value": "Tecnología de la información y comunicación"
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Cronograma TIMS",
+    "subtitle": "Noticias y eventos de la carrera",
+    "filterAll": "Todo",
+    "filterNews": "Noticias",
+    "filterEvents": "Eventos",
+    "typeNews": "Noticia",
+    "typeEvent": "Evento",
+    "empty": "No hay contenido disponible",
+    "by": "Por"
+  },
+  "footer": {
+    "description": "Ingeniería en Tecnologías de la Información — Escuela Superior Politécnica del Chimborazo, Sede Morona Santiago.",
+    "navTitle": "Navegación",
+    "contactTitle": "Contacto",
+    "rights": "Todos los derechos reservados.",
+    "role": "Ingeniería en Tecnologías de la Información"
+  },
+  "login": {
+    "title": "Iniciar Sesión",
+    "description": "Ingresa tus credenciales para acceder al panel de administración",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar Sesión",
+    "submitting": "Iniciando sesión...",
+    "invalidCredentials": "Credenciales inválidas",
+    "error": "Error al iniciar sesión"
+  },
+  "admin": {
+    "panelTitle": "Panel de Administración",
+    "loading": "Cargando...",
+    "dashboard": {
+      "title": "Panel de Administración TIMS",
+      "description": "Gestiona noticias y eventos desde aquí.",
+      "manageNews": "Gestionar Noticias",
+      "manageEvents": "Gestionar Eventos"
+    },
+    "news": {
+      "pageTitle": "Gestionar Noticias",
+      "createTitle": "Crear Nueva Noticia",
+      "createDescription": "Agrega una nueva noticia al sistema.",
+      "listTitle": "Noticias Publicadas",
+      "empty": "No hay noticias publicadas",
+      "fieldTitle": "Título",
+      "fieldContent": "Contenido",
+      "submit": "Crear Noticia",
+      "submitting": "Creando...",
+      "delete": "Eliminar",
+      "deleteConfirm": "¿Estás seguro de que quieres eliminar esta noticia?",
+      "createError": "Error al crear la noticia",
+      "deleteError": "Error al eliminar la noticia",
+      "by": "Por"
+    },
+    "events": {
+      "pageTitle": "Gestionar Eventos",
+      "createTitle": "Crear Nuevo Evento",
+      "createDescription": "Agrega un nuevo evento al sistema.",
+      "listTitle": "Eventos",
+      "empty": "No hay eventos",
+      "fieldTitle": "Título",
+      "fieldDescription": "Descripción",
+      "fieldDate": "Fecha del Evento",
+      "fieldLocation": "Ubicación",
+      "locationEmpty": "Ubicación no especificada",
+      "submit": "Crear Evento",
+      "submitting": "Creando...",
+      "delete": "Eliminar",
+      "deleteConfirm": "¿Estás seguro de que quieres eliminar este evento?",
+      "createError": "Error al crear el evento",
+      "deleteError": "Error al eliminar el evento"
+    }
+  },
+  "club": {
+    "title": "Club TIMS",
+    "description": "Espacio estudiantil de la carrera de Ingeniería en Tecnologías de la Información — ESPOCH Morona Santiago.",
+    "missionTitle": "Misión",
+    "missionText": "Fomentar el desarrollo académico, técnico y profesional de los estudiantes de TI mediante actividades extracurriculares, proyectos colaborativos y la vinculación con la industria tecnológica, fortaleciendo el aprendizaje continuo y el trabajo en equipo.",
+    "visionTitle": "Visión",
+    "visionText": "Ser el referente estudiantil de innovación tecnológica en la región, formando profesionales íntegros capaces de liderar proyectos de impacto social y económico, integrando los avances en inteligencia artificial, ciberseguridad y transformación digital.",
+    "boardTitle": "Directiva del Club",
+    "tbd": "Por definir",
+    "roles": {
+      "president": "Presidente",
+      "vicePresident": "Vicepresidente",
+      "secretary": "Secretario/a",
+      "treasurer": "Tesorero/a",
+      "member": "Vocal Principal"
+    }
+  },
+  "council": {
+    "title": "Consejo Estudiantil",
+    "description": "Órgano representativo de los estudiantes de la carrera de Ingeniería en Tecnologías de la Información — ESPOCH Morona Santiago.",
+    "missionTitle": "Misión",
+    "missionText": "Representar y defender los derechos e intereses de los estudiantes de la carrera de TI, promoviendo la participación activa, la transparencia y el desarrollo integral de la comunidad estudiantil a través de iniciativas que fortalezcan la identidad y el compromiso académico.",
+    "visionTitle": "Visión",
+    "visionText": "Ser un consejo estudiantil líder y propositivo que impulse el cambio positivo en la institución, consolidando espacios de diálogo, participación y desarrollo de competencias profesionales y ciudadanas entre los estudiantes de Tecnologías de la Información.",
+    "boardTitle": "Directiva del Consejo Estudiantil",
+    "tbd": "Por definir",
+    "roles": {
+      "president": "Presidente",
+      "vicePresident": "Vicepresidente",
+      "secretary": "Secretario/a",
+      "treasurer": "Tesorero/a",
+      "member": "Vocal Principal"
+    },
+    "statutesTitle": "Estatutos",
+    "statutesIntro": "Los estatutos del Consejo Estudiantil regulan la organización, funciones y responsabilidades de sus miembros, garantizando una gestión transparente y democrática.",
+    "chapter1": "Capítulo I — De la Naturaleza y Objetivos: El Consejo Estudiantil es el órgano de representación estudiantil encargado de velar por los derechos y deberes de los estudiantes de la carrera.",
+    "chapter2": "Capítulo II — De la Estructura Organizativa: El consejo está conformado por la directiva ejecutiva y representantes de cada nivel académico, elegidos mediante votación democrática.",
+    "chapter3": "Capítulo III — De las Atribuciones: Son funciones del consejo promover la participación estudiantil, mediar en conflictos, gestionar proyectos estudiantiles y mantener comunicación con las autoridades académicas.",
+    "statutesNote": "Los estatutos completos estarán disponibles próximamente en formato PDF para consulta de toda la comunidad.",
+    "functionsTitle": "Principales Funciones",
+    "functions": [
+      "Representar oficialmente a los estudiantes ante las autoridades de la carrera y la institución.",
+      "Promover y organizar actividades académicas, culturales y deportivas.",
+      "Velar por el cumplimiento de los derechos y deberes estudiantiles.",
+      "Canalizar inquietudes y propuestas de mejora desde la comunidad estudiantil.",
+      "Fomentar la participación activa en instancias de toma de decisiones académicas."
+    ]
+  },
+  "pdfViewer": {
+    "title": "Malla Curricular",
+    "subtitle": "Propuesta curricular de la carrera de Ingeniería en TI",
+    "download": "Descargar",
+    "zoomIn": "Acercar",
+    "zoomOut": "Alejar",
+    "zoomReset": "Restablecer zoom"
+  }
+}

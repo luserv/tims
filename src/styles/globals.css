@@ -22,6 +22,8 @@
   --ring: 221.2 83.2% 53.3%;
   --radius: 0.5rem;
   --blueti: #001b55;
+  --gold: #d79b05;
+  --gold-dark: #c48a04;
 }
 
 .dark {
@@ -67,6 +69,8 @@
   --color-input: hsl(var(--input));
   --color-ring: hsl(var(--ring));
   --color-blueti: var(--blueti);
+  --color-gold: var(--gold);
+  --color-gold-dark: var(--gold-dark);
 
   --font-sans: var(--font-sans);
 }

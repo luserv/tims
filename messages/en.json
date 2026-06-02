@@ -1,0 +1,267 @@
+{
+  "nav": {
+    "home": "Home",
+    "timeline": "Schedule",
+    "club": "Club",
+    "studentCouncil": "Student Council",
+    "login": "Sign in",
+    "brand": "Information Technologies"
+  },
+  "lang": {
+    "label": "Language",
+    "es": "Español",
+    "en": "English"
+  },
+  "hero": {
+    "badge": "ESPOCH · Morona Santiago Campus",
+    "title": "Information Technology Engineering",
+    "description": "Training professionals capable of managing and optimizing information systems, adapted to local, regional, and national technological trends.",
+    "ctaPrimary": "Discover the program",
+    "ctaSecondary": "View Schedule"
+  },
+  "infoBanner": {
+    "title": "General Information",
+    "description": "The Information Technology Engineer has the ability to efficiently and effectively use information technologies, contributing significantly to improving organizational performance while adapting to local, regional, and national technological trends.",
+    "duration": "Duration",
+    "durationValue": "4 years",
+    "modality": "Modality",
+    "modalityValue": "On-campus",
+    "cost": "Cost",
+    "costValue": "Free",
+    "coordinator": "Coordinator",
+    "approvalInitial": "Initial CES Approval",
+    "approvalUpdated": "Updated CES Approval"
+  },
+  "professionalProfile": {
+    "title": "Professional Profile",
+    "description": "The Information Technology Engineer, Morona Campus, will be able to improve organizational performance based on technological trends in the local, regional, and national context — with solid foundations in data, networks, technological platforms, administrative sciences, and business processes.",
+    "items": [
+      {
+        "title": "Solid Technical Knowledge",
+        "description": "Deep knowledge of programming, databases, networks, computer security, artificial intelligence, and multimedia."
+      },
+      {
+        "title": "Problem Solving",
+        "description": "Ability to identify problems and propose effective and efficient solutions at the lowest cost."
+      },
+      {
+        "title": "Communication Skills",
+        "description": "Ability to communicate solution alternatives to people with different levels of technical knowledge."
+      },
+      {
+        "title": "Leadership and Collaboration",
+        "description": "Ability to work in teams and lead information technology projects."
+      },
+      {
+        "title": "Adaptability and Flexibility",
+        "description": "Ability to adapt to different work environments and continuously learn new technologies."
+      },
+      {
+        "title": "Critical and Creative Thinking",
+        "description": "Critical ability for information analysis and creativity to propose innovative solutions."
+      },
+      {
+        "title": "Business Knowledge",
+        "description": "Ability to identify market niches and needs that require IT-based solutions."
+      },
+      {
+        "title": "Professional Ethics",
+        "description": "Commitment to integrity, confidentiality, and privacy of information."
+      }
+    ]
+  },
+  "occupationalField": {
+    "title": "Occupational Field",
+    "subtitle": "Professional performance areas",
+    "items": [
+      "Fundamental in the management and optimization of information systems within public and private organizations.",
+      "They perform in key roles such as systems analysts, database administrators, network designers, and computer security specialists.",
+      "Their expertise ranges from implementing innovative technological solutions to the strategic direction of IT projects, ensuring operational efficiency.",
+      "Prepared to face constant challenges arising from rapid technological evolution, applying knowledge in artificial intelligence, big data, and cybersecurity."
+    ]
+  },
+  "objectives": {
+    "title": "Objectives",
+    "subtitle": "General and specific program objectives",
+    "generalLabel": "General Objective",
+    "generalText": "Integrate scientific-methodological foundations inherent to information and communication technologies, promoting social, productive, and technological growth at the local, regional, and national level.",
+    "items": [
+      {
+        "title": "Toward Knowledge and Learning",
+        "description": "Master the scientific foundations, knowledge, techniques, and methodologies of basic sciences, programming, and information management to solve problems related to ICTs, contributing to sustainable development processes."
+      },
+      {
+        "title": "Toward Relevance",
+        "description": "Propose comprehensive information and communication system solutions to solve environmental problems, contributing to the transformation of the country's productive matrix and automating productive processes."
+      },
+      {
+        "title": "Toward Learning",
+        "description": "Apply skills, methodologies, and technological tools as an IT engineer, with human quality and professionalism to solve needs in context."
+      },
+      {
+        "title": "Toward Integral Citizenship",
+        "description": "Establish a link with citizenship through the use of ICT, fostering a responsible, supportive, and participatory computer culture."
+      },
+      {
+        "title": "Multidisciplinary Research",
+        "description": "Raise the level of participation of multidisciplinary groups within IT research projects, improving the quality of life of different social actors."
+      }
+    ]
+  },
+  "outreachProjects": {
+    "title": "Community Outreach Projects",
+    "subtitle": "Community and environment engagement",
+    "items": [
+      "Strengthening the educational process in school districts 14D01 through the analysis and feasibility of new technical bachelor's degrees in Morona Santiago province.",
+      "Contribution to the digital transformation agenda in Morona canton focused on educational institutions.",
+      "\"NUWA KAKARAM\" — entrepreneurship as an alternative to reduce gender violence in Morona Santiago province."
+    ]
+  },
+  "researchProjects": {
+    "title": "Research Projects",
+    "subtitle": "Research activity of the program",
+    "activeResearch": "Active Research",
+    "rows": [
+      {
+        "label": "Project",
+        "value": "Influence of E-Learning as a tool for improving continuing education in Macas."
+      },
+      {
+        "label": "Research Groups",
+        "value": "GIDES, SEGINTE, TIGECON"
+      },
+      {
+        "label": "Research Lines",
+        "value": "Information and communication technology"
+      }
+    ]
+  },
+  "timeline": {
+    "title": "TIMS Schedule",
+    "subtitle": "Program news and events",
+    "filterAll": "All",
+    "filterNews": "News",
+    "filterEvents": "Events",
+    "typeNews": "News",
+    "typeEvent": "Event",
+    "empty": "No content available",
+    "by": "By"
+  },
+  "footer": {
+    "description": "Information Technology Engineering — Escuela Superior Politécnica del Chimborazo, Morona Santiago Campus.",
+    "navTitle": "Navigation",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "role": "Information Technology Engineering"
+  },
+  "login": {
+    "title": "Sign In",
+    "description": "Enter your credentials to access the administration panel",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "submitting": "Signing in...",
+    "invalidCredentials": "Invalid credentials",
+    "error": "Sign in error"
+  },
+  "admin": {
+    "panelTitle": "Administration Panel",
+    "loading": "Loading...",
+    "dashboard": {
+      "title": "TIMS Administration Panel",
+      "description": "Manage news and events from here.",
+      "manageNews": "Manage News",
+      "manageEvents": "Manage Events"
+    },
+    "news": {
+      "pageTitle": "Manage News",
+      "createTitle": "Create New Article",
+      "createDescription": "Add a new article to the system.",
+      "listTitle": "Published Articles",
+      "empty": "No published articles",
+      "fieldTitle": "Title",
+      "fieldContent": "Content",
+      "submit": "Create Article",
+      "submitting": "Creating...",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this article?",
+      "createError": "Error creating article",
+      "deleteError": "Error deleting article",
+      "by": "By"
+    },
+    "events": {
+      "pageTitle": "Manage Events",
+      "createTitle": "Create New Event",
+      "createDescription": "Add a new event to the system.",
+      "listTitle": "Events",
+      "empty": "No events",
+      "fieldTitle": "Title",
+      "fieldDescription": "Description",
+      "fieldDate": "Event Date",
+      "fieldLocation": "Location",
+      "locationEmpty": "Location not specified",
+      "submit": "Create Event",
+      "submitting": "Creating...",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this event?",
+      "createError": "Error creating event",
+      "deleteError": "Error deleting event"
+    }
+  },
+  "club": {
+    "title": "TIMS Club",
+    "description": "Student space of the Information Technology Engineering program — ESPOCH Morona Santiago.",
+    "missionTitle": "Mission",
+    "missionText": "Foster the academic, technical, and professional development of IT students through extracurricular activities, collaborative projects, and links with the technology industry, strengthening continuous learning and teamwork.",
+    "visionTitle": "Vision",
+    "visionText": "Be the student benchmark for technological innovation in the region, training well-rounded professionals capable of leading projects with social and economic impact, integrating advances in artificial intelligence, cybersecurity, and digital transformation.",
+    "boardTitle": "Club Board",
+    "tbd": "To be defined",
+    "roles": {
+      "president": "President",
+      "vicePresident": "Vice President",
+      "secretary": "Secretary",
+      "treasurer": "Treasurer",
+      "member": "Main Member"
+    }
+  },
+  "council": {
+    "title": "Student Council",
+    "description": "Representative body of the students of the Information Technology Engineering program — ESPOCH Morona Santiago.",
+    "missionTitle": "Mission",
+    "missionText": "Represent and defend the rights and interests of IT program students, promoting active participation, transparency, and the comprehensive development of the student community through initiatives that strengthen identity and academic commitment.",
+    "visionTitle": "Vision",
+    "visionText": "Be a leading and proactive student council that drives positive change in the institution, consolidating spaces for dialogue, participation, and development of professional and civic competencies among Information Technology students.",
+    "boardTitle": "Student Council Board",
+    "tbd": "To be defined",
+    "roles": {
+      "president": "President",
+      "vicePresident": "Vice President",
+      "secretary": "Secretary",
+      "treasurer": "Treasurer",
+      "member": "Main Member"
+    },
+    "statutesTitle": "Statutes",
+    "statutesIntro": "The Student Council statutes regulate the organization, functions, and responsibilities of its members, ensuring transparent and democratic governance.",
+    "chapter1": "Chapter I — Nature and Objectives: The Student Council is the student representative body responsible for safeguarding the rights and duties of the program's students.",
+    "chapter2": "Chapter II — Organizational Structure: The council is made up of the executive board and representatives from each academic level, elected by democratic vote.",
+    "chapter3": "Chapter III — Responsibilities: The council's functions include promoting student participation, mediating conflicts, managing student projects, and maintaining communication with academic authorities.",
+    "statutesNote": "The complete statutes will be available soon in PDF format for the entire community.",
+    "functionsTitle": "Main Functions",
+    "functions": [
+      "Officially represent students before the program and institutional authorities.",
+      "Promote and organize academic, cultural, and sports activities.",
+      "Ensure compliance with student rights and duties.",
+      "Channel concerns and improvement proposals from the student community.",
+      "Encourage active participation in academic decision-making bodies."
+    ]
+  },
+  "pdfViewer": {
+    "title": "Curriculum",
+    "subtitle": "IT Engineering program curriculum proposal",
+    "download": "Download",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "zoomReset": "Reset zoom"
+  }
+}
